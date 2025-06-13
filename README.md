@@ -1,6 +1,8 @@
 # ITRS
 Iterative Transparent Reasoning System by chonkyDB.com
 
+**✅ If you want to use the ITRS for your project or research, please get in touch via th@thomheinrich.com ✅**
+
 ## 🎥 System Demonstration
 
 [![ITRS Architecture Walkthrough](https://img.youtube.com/vi/yAgJAelHigA/maxresdefault.jpg)](https://www.youtube.com/watch?v=yAgJAelHigA)
