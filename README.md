@@ -5,9 +5,9 @@ Iterative Transparent Reasoning System by chonkyDB.com
 
 [![ITRS Architecture Walkthrough](https://img.youtube.com/vi/yAgJAelHigA/maxresdefault.jpg)](https://www.youtube.com/watch?v=yAgJAelHigA)
 
-*Click the image above to see the Iterative Thought Refinement System in action!*
+*Click the image above to see the Iterative Transparent Reasoning System in action!*
 
-# The Iterative Thought Refinement System: A Novel Architecture for Emergent AI Reasoning through Dynamic Large Language Model-Driven Decision Making and Knowledge Graph Integration
+# The Iterative Transparent Reasoning System: A Novel Architecture for Emergent AI Reasoning through Dynamic Large Language Model-Driven Decision Making and Knowledge Graph Integration
 
 **Author:** Thomas "Thom" Heinrich  
 *Independent Research*  
@@ -17,7 +17,7 @@ Email: th@thomheinrich.com
 
 ## Abstract
 
-We present the Iterative Thought Refinement System (ITRS), a groundbreaking architecture that revolutionizes artificial intelligence reasoning through a purely large language model (LLM)-driven iterative refinement process integrated with dynamic knowledge graphs and semantic vector embeddings. Unlike traditional heuristic-based approaches, ITRS employs zero-heuristic decision making, where all strategic choices emerge from LLM intelligence rather than hardcoded rules. The system introduces six distinct refinement strategies (TARGETED, EXPLORATORY, SYNTHESIS, VALIDATION, CREATIVE, and CRITICAL), a persistent thought document structure with semantic versioning, and real-time thinking step visualization. Through synergistic integration of knowledge graphs for relationship tracking, semantic vector engines for contradiction detection, and dynamic parameter optimization, ITRS achieves convergence to optimal reasoning solutions while maintaining complete transparency and auditability. We demonstrate the system's theoretical foundations, architectural components, and potential applications across explainable AI (XAI), trustworthy AI (TAI), and general LLM enhancement domains. The theoretical analysis demonstrates significant potential for improvements in reasoning quality, transparency, and reliability compared to single-pass approaches, while providing formal convergence guarantees and computational complexity bounds. The architecture advances the state-of-the-art by eliminating the brittleness of rule-based systems and enabling truly adaptive, context-aware reasoning that scales with problem complexity.
+We present the Iterative Transparent Reasoning System (ITRS), a groundbreaking architecture that revolutionizes artificial intelligence reasoning through a purely large language model (LLM)-driven iterative refinement process integrated with dynamic knowledge graphs and semantic vector embeddings. Unlike traditional heuristic-based approaches, ITRS employs zero-heuristic decision making, where all strategic choices emerge from LLM intelligence rather than hardcoded rules. The system introduces six distinct refinement strategies (TARGETED, EXPLORATORY, SYNTHESIS, VALIDATION, CREATIVE, and CRITICAL), a persistent thought document structure with semantic versioning, and real-time thinking step visualization. Through synergistic integration of knowledge graphs for relationship tracking, semantic vector engines for contradiction detection, and dynamic parameter optimization, ITRS achieves convergence to optimal reasoning solutions while maintaining complete transparency and auditability. We demonstrate the system's theoretical foundations, architectural components, and potential applications across explainable AI (XAI), trustworthy AI (TAI), and general LLM enhancement domains. The theoretical analysis demonstrates significant potential for improvements in reasoning quality, transparency, and reliability compared to single-pass approaches, while providing formal convergence guarantees and computational complexity bounds. The architecture advances the state-of-the-art by eliminating the brittleness of rule-based systems and enabling truly adaptive, context-aware reasoning that scales with problem complexity.
 
 **Keywords:** Iterative reasoning, large language models, knowledge graphs, semantic embeddings, explainable AI, trustworthy AI, emergent reasoning, zero-heuristic systems
 
@@ -29,7 +29,7 @@ The rapid advancement of large language models (LLMs) has fundamentally transfor
 
 Traditional approaches to enhancing LLM reasoning have largely relied on structured prompting techniques such as Chain-of-Thought (CoT) prompting [1], Tree-of-Thoughts [3], and Graph-of-Thoughts [4]. While these methods have demonstrated substantial improvements over single-pass inference, they remain fundamentally limited by their dependence on predefined heuristics, fixed exploration strategies, and hardcoded decision rules. Such approaches lack the adaptability and contextual sensitivity required for optimal performance across the diverse spectrum of reasoning tasks encountered in real-world applications.
 
-In this paper, we introduce the Iterative Thought Refinement System (ITRS), a novel architecture that fundamentally reimagines how AI systems approach complex reasoning tasks. ITRS treats reasoning not as a linear process but as an iterative art form, continuously refining a persistent thought document through strategic iterations until convergence criteria are met or computational budgets are exhausted. The system's revolutionary approach lies in its complete elimination of hardcoded heuristics—every decision, from strategy selection and parameter optimization to convergence assessment and termination criteria, emerges purely from LLM intelligence.
+In this paper, we introduce the Iterative Transparent Reasoning System (ITRS), a novel architecture that fundamentally reimagines how AI systems approach complex reasoning tasks. ITRS treats reasoning not as a linear process but as an iterative art form, continuously refining a persistent thought document through strategic iterations until convergence criteria are met or computational budgets are exhausted. The system's revolutionary approach lies in its complete elimination of hardcoded heuristics—every decision, from strategy selection and parameter optimization to convergence assessment and termination criteria, emerges purely from LLM intelligence.
 
 ### 1.1 Core Innovations and Contributions
 
@@ -846,7 +846,7 @@ The structured reasoning process and progressive explanation capabilities of ITR
 
 ## 9. Conclusion
 
-This paper has presented the Iterative Thought Refinement System (ITRS), a novel architecture that represents a fundamental advancement in AI reasoning systems. Through the elimination of hardcoded heuristics in favor of emergent LLM intelligence, integration of dynamic knowledge graphs with semantic embeddings, and provision of complete transparency through structured reasoning traces, ITRS addresses critical limitations in current reasoning approaches.
+This paper has presented the Iterative Transparent Reasoning System (ITRS), a novel architecture that represents a fundamental advancement in AI reasoning systems. Through the elimination of hardcoded heuristics in favor of emergent LLM intelligence, integration of dynamic knowledge graphs with semantic embeddings, and provision of complete transparency through structured reasoning traces, ITRS addresses critical limitations in current reasoning approaches.
 
 The key contributions of this work include:
 
