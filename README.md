@@ -5,7 +5,7 @@ Iterative Transparent Reasoning System by chonkyDB.com
 
 ## 🎥 System Demonstration
 
-[![ITRS Architecture Walkthrough](https://img.youtube.com/vi/yAgJAelHigA/maxresdefault.jpg)](https://www.youtube.com/watch?v=yAgJAelHigA)
+[![ITRS Architecture Walkthrough](https://img.youtube.com/vi/ubwaZVtyiKA/maxresdefault.jpg)](https://youtu.be/ubwaZVtyiKA)
 
 *Click the image above to see the Iterative Transparent Reasoning System in action!*
 
