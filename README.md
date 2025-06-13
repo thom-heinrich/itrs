@@ -1,5 +1,10 @@
 # ITRS
-Iterative Transparent Reasoning System
+Iterative Transparent Reasoning System by chonkyDB.com
+
+
+![chonkydb](https://github.com/user-attachments/assets/50c11a94-e64a-4e5b-8fb3-278a61d87f32)
+
+
 
 # The Iterative Thought Refinement System: A Novel Architecture for Emergent AI Reasoning through Dynamic Large Language Model-Driven Decision Making and Knowledge Graph Integration
 
