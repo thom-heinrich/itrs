@@ -1,4 +1,4 @@
-# Contributing to ITRS (Iterative Thought Refinement System)
+# Contributing to ITRS (Iterative Transparent Reasoning System)
 
 Hey there! 👋 Welcome to the ITRS project!
 
